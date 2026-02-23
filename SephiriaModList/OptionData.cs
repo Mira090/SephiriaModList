@@ -11,7 +11,7 @@ namespace SephiriaModList
         public static Dictionary<MelonMod, bool> UseLocalizations = [];
 
         public static readonly string OptionName = "ModOptions";
-        public static readonly string LocalizationName = "UseLocalizedOptions";
+        public static readonly string LocalizationName = "UseLocalizedSring";
         public static readonly string DescriptionName = "ModOptionsDescription";
         public static readonly string DefaultName = "ModOptionsDefault";
 
