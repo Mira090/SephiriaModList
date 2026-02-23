@@ -4,13 +4,13 @@
 
 Team Horay の <a href="https://store.steampowered.com/app/2436940/_/">Sephiria</a> にインストールされたMelonLoader Modに関する機能を追加します。
 
-v0.1.0現在はMelonLoader Mod用の設定画面を追加します。
+現在（v0.1.0）はMelonLoader Mod用の設定画面を追加します。
 この機能に対応しているModの設定のみが画面に表示されます。
 設定した内容はセーブデータに保存され、次の起動以降にも反映されます。
 
 <img src="Images/example.png" width=100%>
 
-※このModは現在開発中であり、予期しない変更がある可能性があります。
+※このModは現在開発中であり、予期しない変更の可能性があります。
 
 ## 📥 インストール
 1. <a href="https://github.com/LavaGang/MelonLoader">MelonLoader v0.7.1</a> をSephiriaにインストールしてください。
