@@ -14,7 +14,7 @@ v0.1.0現在はMelonLoader Mod用の設定画面を追加します。
 
 ## 📥 インストール
 1. <a href="https://github.com/LavaGang/MelonLoader">MelonLoader v0.7.1</a> をSephiriaにインストールしてください。
-2. Releases から最新の `SephiriaModList-0.X.X.zip` をダウンロードし、解凍してください。
+2. Releases から最新の `SephiriaModList.dll` をダウンロードしてください。
 3. `Program Files (x86)\Steam\steamapps\common\Sephiria\Mods` フォルダ内に `SephiriaModList.dll` を配置します。
 4. ゲームを起動すると自動的に反映されます。
 
