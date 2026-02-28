@@ -49,6 +49,8 @@ namespace SephiriaModList.UI
 
         private void UpdateText()
         {
+            if (text == null)
+                return;
             if (enableTagParsing)
             {
                 text.text = leftString + KeywordDatabase.Convert(valueString.ToString()) + rightString;
