@@ -68,10 +68,10 @@ namespace SephiriaModList
 
                 UseLocalizations[melon] = false;
                 var local = melon.GetType().GetProperty(LocalizationName);
-                if(local == null || local.PropertyType != typeof(bool))
+                if (local == null || local.PropertyType != typeof(bool))
                     continue;
-                var localValue = pro.GetValue(melon);
-                if(localValue is not bool useLocal)
+                var localValue = local.GetValue(melon);
+                if (localValue is not bool useLocal)
                     continue;
                 UseLocalizations[melon] = useLocal;
             }
