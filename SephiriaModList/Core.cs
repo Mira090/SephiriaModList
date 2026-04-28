@@ -1,6 +1,6 @@
 ﻿using MelonLoader;
 
-[assembly: MelonInfo(typeof(SephiriaModList.Core), "Sephiria ModList", "0.1.0", "Mira", null)]
+[assembly: MelonInfo(typeof(SephiriaModList.Core), "Sephiria ModList", "0.1.1", "Mira", null)]
 [assembly: MelonGame("TEAMHORAY", "Sephiria")]
 
 namespace SephiriaModList
